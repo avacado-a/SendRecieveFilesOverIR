@@ -1,4 +1,4 @@
-#Warning: this is an AI generated README.md file. It may not be accurate.
+# Warning: this is an AI generated README.md file. It may not be accurate.
 This project demonstrates a system for transferring files over Infrared (IR) communication using Arduino and Python. The project includes encoding and decoding files, error correction using Reed-Solomon codes, and serial communication between a computer and Arduino devices.
 
 ## Table of Contents
